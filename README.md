@@ -1,22 +1,22 @@
-# Olá, eu sou o Estefanio Fernando! 👋
+# Hi, I'm Estefanio Fernando! 👋
 
-### 🎓 Estudante de BSc em Ciências da Computação
-**Foco em Inteligência Artificial & Engenharia de Backend**
+### 🎓 Computer Science BSc Student
+**Focus on Artificial Intelligence & Backend Engineering**
 
-Sou um entusiasta de computação de baixo nível e algoritmos complexos. Atualmente, estou mergulhando na matemática profunda do Machine Learning através do **CS229 de Stanford** e construindo sistemas robustos de backend.
-
----
-
-## 🚀 No que estou trabalhando
-- 🧠 **Machine Learning:** Implementando algoritmos de base (Gradient Descent, SVM, Kernels) do zero para entender a fundo o CS229.
-- ⚙️ **Backend Engineering:** Desenvolvendo APIs escaláveis e seguras com Java e C#.
-- 🏥 **Future Goal:** Aplicar modelos de Deep Learning para otimização e diagnósticos na área da saúde.
+I am a low-level computing enthusiast passionate about complex algorithms. Currently, I am diving deep into the mathematical foundations of Machine Learning through **Stanford's CS229** while building robust backend systems.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🚀 What I'm working on
+- 🧠 **Machine Learning:** Implementing core algorithms (Gradient Descent, SVM, Kernels) from scratch to master the CS229 curriculum.
+- ⚙️ **Backend Engineering:** Developing scalable and secure APIs using Java and C#.
+- 🏥 **Future Goal:** Applying Deep Learning models for optimization and diagnostics in the Healthcare sector.
 
-### 💻 Linguagens
+---
+
+## 🛠️ Technologies & Tools
+
+### 💻 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -36,18 +36,18 @@ Sou um entusiasta de computação de baixo nível e algoritmos complexos. Atualm
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📈 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME-HERE&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME-HERE&layout=compact&langs_count=7&theme=radical" />
 </p>
 
 ---
 
-## 📫 Como me encontrar
-- **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-- **Email:** seu-email@exemplo.com
+## 📫 Connect with me
+- **LinkedIn:** [linkedin.com/in/your-profile]((https://www.linkedin.com/in/estefaniofernando))
+- **Email:** estefanioesteve10@gmail.com
 
 ---
-*“A inteligência é a habilidade de se adaptar à mudança.” – Stephen Hawking*
+*“Intelligence is the ability to adapt to change.” – Stephen Hawking*
