@@ -1,4 +1,4 @@
-# Hi, I'm Estefanio Fernando! 👋
+# Hi, I'm Estefanio Fernando!
 
 ### 🎓 Computer Science BSc Student
 **Focus on Artificial Intelligence & Backend Engineering**
@@ -46,7 +46,7 @@ I am a low-level computing enthusiast passionate about complex algorithms. Curre
 ---
 
 ## 📫 Connect with me
-- **LinkedIn:** [linkedin.com/in/your-profile]((https://www.linkedin.com/in/estefaniofernando))
+- **LinkedIn:** https://www.linkedin.com/in/estefaniofernando
 - **Email:** estefanioesteve10@gmail.com
 
 ---
