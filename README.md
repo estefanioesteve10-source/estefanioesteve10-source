@@ -1,34 +1,34 @@
 # Hi, I'm Estefanio Fernando!
 
-### 🎓 Computer Science BSc Student
+###  Computer Science BSc Student
 **Focus on Artificial Intelligence & Backend Engineering**
 
 I am a low-level computing enthusiast passionate about complex algorithms. Currently, I am diving deep into the mathematical foundations of Machine Learning through **Stanford's CS229** while building robust backend systems.
 
 ---
 
-## 🚀 What I'm working on
-- 🧠 **Machine Learning:** Implementing core algorithms (Gradient Descent, SVM, Kernels) from scratch to master the CS229 curriculum.
-- ⚙️ **Backend Engineering:** Developing scalable and secure APIs using Java and C#.
-- 🏥 **Future Goal:** Applying Deep Learning models for optimization and diagnostics in the Healthcare sector.
+##  What I'm working on
+-  **Machine Learning:** Implementing core algorithms (Gradient Descent, SVM, Kernels) from scratch to master the CS229 curriculum.
+-  **Backend Engineering:** Developing scalable and secure APIs using Java and C#.
+-  **Future Goal:** Applying Deep Learning models for optimization and diagnostics in the Healthcare sector.
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
-### 💻 Languages
+###  Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### 🤖 Machine Learning & Data Science
+###  Machine Learning & Data Science
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-### 🗄️ Backend & Databases
+###  Backend & Databases
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -36,7 +36,7 @@ I am a low-level computing enthusiast passionate about complex algorithms. Curre
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME-HERE&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
@@ -45,7 +45,7 @@ I am a low-level computing enthusiast passionate about complex algorithms. Curre
 
 ---
 
-## 📫 Connect with me
+##  Connect with me
 - **LinkedIn:** https://www.linkedin.com/in/estefaniofernando
 - **Email:** estefanioesteve10@gmail.com
 
