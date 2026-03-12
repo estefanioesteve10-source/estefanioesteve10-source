@@ -56,7 +56,7 @@ I am a low-level computing enthusiast passionate about complex algorithms. Curre
 ---
 
 ##  Connect with me
-- **LinkedIn:** https://www.linkedin.com/in/estefaniofernando
+- **LinkedIn:** [https://www.linkedin.com/in/estefaniofernando](https://www.linkedin.com/in/estef%C3%A2niofernando/)
 - **Email:** estefanioesteve10@gmail.com
 
 ---
